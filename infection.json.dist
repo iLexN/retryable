@@ -8,8 +8,8 @@
     "logs": {
         "text": "infection.log",
         "github": true,
-        "badge": {
-            "branch": "main"
+        "stryker": {
+            "report": "main"
         }
     },
     "mutators": {

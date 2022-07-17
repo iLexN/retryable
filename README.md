@@ -1,16 +1,16 @@
-# package-template
+# retryable
 > general description
 
-[![Latest Stable Version](https://poser.pugx.org/ilexn/package-template/v/stable)](https://packagist.org/packages/ilexn/package-template)
-[![Total Downloads](https://poser.pugx.org/ilexn/package-template/downloads)](https://packagist.org/packages/ilexn/package-template)
+[![Latest Stable Version](https://poser.pugx.org/ilexn/retryable/v/stable)](https://packagist.org/packages/ilexn/retryable)
+[![Total Downloads](https://poser.pugx.org/ilexn/retryable/downloads)](https://packagist.org/packages/ilexn/retryable)
 
-![GitHub Action](https://github.com/iLexN/package-template/workflows/CI%20Check/badge.svg)
-[![Coverage Status](https://coveralls.io/repos/github/iLexN/package-template/badge.svg?branch=main)](https://coveralls.io/github/iLexN/package-template?branch=main)
-[![Infection MSI](https://badge.stryker-mutator.io/github.com/iLexN/package-template/main)](https://infection.github.io)
+![GitHub Action](https://github.com/iLexN/retryable/workflows/CI%20Check/badge.svg)
+[![Coverage Status](https://coveralls.io/repos/github/iLexN/retryable/badge.svg?branch=main)](https://coveralls.io/github/iLexN/retryable?branch=main)
+[![Infection MSI](https://badge.stryker-mutator.io/github.com/iLexN/retryable/main)](https://infection.github.io)
 
 ## Installation
 ```sh
-composer require ilexn/package-template
+composer require ilexn/retryable
 ```
 
 ## Usage example
